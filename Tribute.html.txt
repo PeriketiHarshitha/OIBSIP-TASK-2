@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <style>
+ 
+        /* Styling the body element
+        like body color and margin */
+         
+        body {
+            background-color: white;
+            margin: 20%;
+        }
+ 
+        /* Styling the Title and giving
+        shadow to the title */
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px white;
+            font-size: 8vh;
+        }
+ 
+        /* Setting width and display
+        type of image */
+        img {
+            display: inline-block;
+            width: 50%;
+        }
+ 
+        /* Setting font color and font
+        size of the image-caption */
+        #caption {
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+        }
+ 
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+        div#tribute-data {
+            background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 20px 20px 20px #98FB98;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+.center {
+ display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+/* Styling the title of the content */
+        h1.title-MJ {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        /* Styling the link provided at the end */
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <main id="main">
+ 
+        <!-- Title of the page -->
+        <h1 id="title">
+            MOTHER TERESA
+        </h1>
+ 
+        <div id="img">
+ 
+            <!--Image of the Tribute Person-->
+            <img src=" C:\Users\harsh\Downloads\mother teresa.jpeg" id="image"
+                alt="Error Loading Image" class="center">
+            <small id="caption">
+              Mother Teresa Mother Teresa (26 August 1910 – 5 September 1997), also known as Saint Teresa of Calcutta, was an Albanian-Indian Roman Catholic nun who in 1950 founded and was an active member of the Missionaries of Charity. Although her passport name was Mary Teresa Bojaxhiu, she was born Anjezë Gonxhe Bojaxhiu now Skopje, capital of North Macedonia. After living in Skopje for eighteen years, she moved to Ireland and then to India, where she lived for most of her life.
+
+
+            </small>
+
+        </div>
+<div id="tribute-data">
+ 
+            <!--Achievements and other
+                details of the person-->
+            <h1 class="title-MJ">
+                About the Legend
+          
+<p>After Mother Teresa founded her missionary Roman Catholic religious congregation, it grew to have over 4,500 nuns and was active in 133 countries as of 2012.</p>
+
+<p>Mother Teresa received several honours, including the 1962 Ramon Magsaysay Peace Prize and the 1979 Nobel Peace Prize</p>
+
+<p>A controversial figure during her life and after her death, Mother Teresa was admired by many for her charitable work. She was praised and criticised on various counts, such as for her views on abortion and contraception, and was criticized for poor conditions in her houses for the dying. </p>
+
+<p>According to a biography by Joan Graff Clucas, Anjezë was in her early years when she became fascinated by stories of the lives of missionaries and their service in Bengal; by age 12, she was convinced that she should commit herself to religious life. Her resolve strengthened on 15 August 1928 as she prayed at the shrine of the Black Madonna of Vitina-Letnice, where she often went on pilgrimages.</p>
+
+
+
+<p>She arrived in India in 1929 and began her novitiate in Darjeeling, in the lower Himalayas, where she learned Bengali and taught at St. Teresa's School near her convent. She took her first religious vows on 24 May 1931.</p>
+
+<p>Teresa took her solemn vows on 14 May 1937 while she was a teacher at the Loreto convent school in Entally, eastern Calcutta, taking the style of 'Mother' as part of Loreto custom.</p>
+
+<p> The Bengal famine of 1943 brought misery and death to the city, and the August 1946 Direct Action Day began a period of Muslim-Hindu violence.</p>
+
+
+<p>  Although Mother Teresa enjoyed teaching at the school, she was increasingly disturbed by the poverty surrounding her in Calcutta.</p>
+
+<ul>
+<b>1979 Noble Peace Prize Won By Mother Teresa:</b>
+<ul>
+<li>1962 Ramon Magsaysay Peace Prize</li>
+<li> Sister Teresa had just become Mother Teresa</li>
+<li>Our Lord wants me to be a free nun covered with the poverty of the cross</li>
+<li>Mother Teresa said, "By blood, I am Albanian". By citizenship, an Indian</li>
+<li>In 1997, the 13-member Calcutta congregation had grown to more than 4,000 sisters who managed orphanages</li>
+
+</ul>
+</p>
+<p>Mother Teresa's work has been recognised and acclaimed throughout the world and she has received a number of awards and distinctions, including the Pope John XXIII Peace Prize (1971) and the Nehru Prize for her promotion of international peace and understanding (1972).
+
+</p>
+        </div>
+        <br>
+            For more information,
+        check out
+        <a id="tribute-link" href="#">
+            <b>Mother Teresa</b> on Wikipedia. [
+            <small>Developed by @<a href="#">
+                    Harshitha.</a></a>
+        </small>]
+    </main>
+</body>
+ 
+</html>
